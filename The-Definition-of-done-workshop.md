@@ -33,4 +33,4 @@ As a last step go over all the DoD items that have been posted on the flipchart 
 
 Source: http://agileblogorg.blogspot.com/
 
-This work by naked Agility with Martin Hinshelwood is licensed under CC BY-SA 4.0 
+This work by [naked Agility with Martin Hinshelwood](https://nkdagility.com) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
