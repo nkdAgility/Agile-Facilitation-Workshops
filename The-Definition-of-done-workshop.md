@@ -1,14 +1,14 @@
-##The Definition of done workshop
+# The Definition of done workshop
 
 Recently one team I take care of as a Scrum Master needed a Definition of Done. Since I couldn't find anything on the internet about a corresponding workshop or a good method to create a definition, I created a workshop based on the "Challenge Cards" method from the book "Gamestorming" (page 158). Here's how you do it:
 
-###Time needed:
+## Time needed:
 About 30 - 60 minutes
 
-###Preparation:
+## Preparation:
 Prepare green and red colored post its and a blank flip chart (or similar).
 
-How to play:
+## How to play:
 Divide the team into two groups. One group is the problem group, they get the red post its. The other group is the DoD group, they get the green post its. Now give both groups 10 minutes time.
 
 Ask the problem group to think of common problems the team encounters regarding development, which could be fixed by a definition of done. Examples would be "a lot of bugs", "released version doesn't work" or "duplicate data appears". Important: Point out that it's not about problems the team can't be made responsible for (kernel panic on a server for instance), but that it's about problems that occur due to errors made during development.
